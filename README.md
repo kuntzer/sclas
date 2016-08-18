@@ -18,3 +18,7 @@ Information on the spectral types of stars is of great interest in view of the e
 ## Running the code
 
 In the latest release, there is a direction demo/ containing working examples based on non-astrophysical data.
+
+## Other codes from EPFL / LASTRO
+
+To discover other codes from the astrophysics laboratory of [EPFL](www.epfl.ch), you can go [there](http://lastro.epfl.ch/software)
