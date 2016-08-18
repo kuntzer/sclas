@@ -21,4 +21,4 @@ In the latest release, there is a direction demo/ containing working examples ba
 
 ## Other codes from EPFL / LASTRO
 
-To discover other codes from the astrophysics laboratory of [EPFL](www.epfl.ch), you can go [there](http://lastro.epfl.ch/software)
+To discover other codes from the astrophysics laboratory of [EPFL](http://www.epfl.ch), you can go [there](http://lastro.epfl.ch/software)
