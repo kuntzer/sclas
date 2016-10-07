@@ -25,12 +25,11 @@ def savefig(fname,fig,fancy=False,pdf_transparence=False):
 		os.system('mv '+fname+'-crop.pdf '+fname+'.pdf')
 	
 
-def set_fancy():
+def set_fancy(txtsize=16):
 	from matplotlib import rc
 	#rc('font',**{'family':'serif','serif':['Palatino'],'size':16})
-	rc('font',**{'family':'serif','size':16})
+	rc('font',**{'family':'serif','size':txtsize})
 	rc('text', usetex=True)
-
 
 
 def cmap_map(function,cmap):
